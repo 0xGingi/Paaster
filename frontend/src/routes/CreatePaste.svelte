@@ -119,7 +119,7 @@
       {@html $_("about.source_code", {
         values: {
           github:
-            '<a href="https://github.com/WardPearce/paaster"referrerpolicy="no-referrer">Github</a>',
+            '<a href="https://github.com/0xgingi/Paaster"referrerpolicy="no-referrer">Github</a>',
         },
       })}
     </p>

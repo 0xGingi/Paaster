@@ -92,7 +92,7 @@
     "shared_with": "Shared with you",
     "about": {
         "title": "how we protect your privacy.",
-        "content": "Paaster utilizes end-to-end encryption for storing and sharing pastes, meaning even the server can't view what you save here.",
+        "content": "paste.0xgingi.com utilizes end-to-end encryption for storing and sharing pastes, meaning even the server can't view what you save here.",
         "source_code": "Our source code is completely open source and can be reviewed on {github}"
     }
 }
